@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   assetID: Weapon 2
   weaponName: 
-  damage: 100
-  fireRate: 2
+  damage: 22
+  fireRate: 22

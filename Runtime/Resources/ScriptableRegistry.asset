@@ -13,6 +13,5 @@ MonoBehaviour:
   m_Name: ScriptableRegistry
   m_EditorClassIdentifier: 
   assets:
-  - {fileID: 11400000, guid: 8f5dc69db43564a44bc11ee4b29172e4, type: 2}
-  - {fileID: 11400000, guid: 8039ea1cc2f184028945bc9dbde6aac8, type: 2}
-  - {fileID: 11400000, guid: 76ae5f5f32d314d698084dfe8938bf7e, type: 2}
+  - {fileID: 11400000, guid: da80659bf02ba4e9591a827da4eca55d, type: 2}
+  - {fileID: 11400000, guid: 0a355627bb90d4b5787655c1b38c2043, type: 2}
