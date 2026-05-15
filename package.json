@@ -1,0 +1,10 @@
+{
+    "name": "com.uk.scriptableframework",
+    "version": "1.0.0",
+    "displayName": "Scriptable Framework",
+    "description": "Reusable framework for Unity",
+    "unity": "6000.0",
+    "author": {
+        "name": "Scriptables"
+    }
+}
